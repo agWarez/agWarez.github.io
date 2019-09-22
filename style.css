@@ -1,0 +1,13 @@
+body {
+	background-image: url(https://raw.githubusercontent.com/agWarez/agWarez.github.io/master/background.jpg);
+	background-repeat: no-repeat;
+	/*background-size: cover;*/
+	color: white;
+	font-family: 'Orbitron', sans-serif;
+}
+
+
+
+.jumbotron {
+	color: #696969;
+}
